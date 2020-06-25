@@ -1,1 +1,1 @@
-`SacarAzulConMiedo` ya no es un buen nombre para el procedimiento, esperamos que puedas cambiarlo también.
+`SacarAzulConMiedo` ya no es un buen nombre para el procedimiento; esperamos que puedas cambiarlo también.

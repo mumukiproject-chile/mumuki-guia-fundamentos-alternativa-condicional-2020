@@ -1,8 +1,8 @@
 ---
 expectations:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: MoverComoSea
-  inspection: HasIf
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: MoverComoSea
-  inspection: HasUsage:puedeMover
+  - !ruby 
+    binding: MoverComoSea
+    inspection: HasIf
+  - !ruby 
+    binding: MoverComoSea
+    inspection: HasUsage:puedeMover

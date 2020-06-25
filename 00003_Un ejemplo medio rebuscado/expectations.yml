@@ -1,8 +1,8 @@
 ---
 expectations:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: CompletarCelda
-  inspection: HasIf
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: CompletarCelda
-  inspection: HasUsage:hayBolitas
+  - !ruby 
+    binding: CompletarCelda
+    inspection: HasIf
+  - !ruby 
+    binding: CompletarCelda
+    inspection: HasUsage:hayBolitas

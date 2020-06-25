@@ -1,8 +1,8 @@
 ---
 expectations:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: SacarAzulConMiedo
-  inspection: HasIf
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: SacarAzulConMiedo
-  inspection: HasUsage:hayBolitas
+  - !ruby 
+    binding: SacarAzulConMiedo
+    inspection: HasIf
+  - !ruby 
+    binding: SacarAzulConMiedo
+    inspection: HasUsage:hayBolitas

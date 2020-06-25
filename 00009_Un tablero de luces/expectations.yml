@@ -1,8 +1,8 @@
 ---
 expectations:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: PrenderOApagarLuz
-  inspection: HasIf
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: PrenderOApagarLuz
-  inspection: HasUsage:hayBolitas
+  - !ruby 
+    binding: PrenderOApagarLuz
+    inspection: HasIf
+  - !ruby 
+    binding: PrenderOApagarLuz
+    inspection: HasUsage:hayBolitas

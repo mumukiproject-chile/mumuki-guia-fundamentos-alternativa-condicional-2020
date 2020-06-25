@@ -1,8 +1,8 @@
 Apagar una celda implica dos cosas: sacar una bolita verde y agregar una negra; lo mismo para prender pero en sentido inverso.
 
-Para saber si está prendida o no, basta con fijarse si hay bolitas del color que querramos.
+Para saber si está prendida o no, basta con fijarse si hay bolitas del color que queramos.
 
-* Por ejemplo, acá la luz está prendida y al invocar `PrenderOApagarLuz()` se apaga:
+* Por ejemplo, acá la luz está prendida, y al invocar `PrenderOApagarLuz()` se apaga:
 
 <table class= "table" style="width:100%">
   <thead>
@@ -41,7 +41,7 @@ Para saber si está prendida o no, basta con fijarse si hay bolitas del color qu
   <tbody>
 </table>
 
-* En cambio, acá está apagada y con tu procedimiento se prende:
+* En cambio, acá está apagada, y con tu procedimiento se prende:
 
 <table class= "table" style="width:100%">
   <thead>

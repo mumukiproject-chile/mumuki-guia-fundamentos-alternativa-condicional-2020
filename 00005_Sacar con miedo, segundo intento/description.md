@@ -1,4 +1,4 @@
-Ahora probá esta segunda versión que agrega una **alternativa condicional**. No te preocupes por la sintaxis, ya te lo vamos a explicar. :smile:
+Ahora prueba esta segunda versión que agrega una **alternativa condicional**. No te preocupes por la sintaxis, ya te lo vamos a explicar. :smile:
 
 ```gobstones
 procedure SacarAzulConMiedo() {
@@ -8,4 +8,4 @@ procedure SacarAzulConMiedo() {
 }
 ```
 
-> Copiá el código anterior en el editor y apretá _Enviar_.
+> Copia el código anterior en el editor y aprieta _Enviar_.
