@@ -6,4 +6,17 @@ En los ejercicios anteriores te mostramos una de las expresiones que trae Gobsto
 
 Otra que trae _True_ o _False_ (y que vas a tener que usar ahora) es `puedeMover(direccion)`. Como podrás imaginarte, sirve para saber si el cabezal puede moverse en una determinada dirección.
 
+Por ejemplo, si tenemos este tablero:
+
+<gs-board>
+  GBB/1.0
+  size 2 3
+  head 0 1    
+</gs-board>
+
+* `puedeMover(Norte)` será `True`.
+* `puedeMover(Sur)` será `True`.
+* `puedeMover(Este)` será `True`.
+* Pero `puedeMover(Oeste)` será `False`
+
 > Usando `puedeMover(direccion)`, escribe un programa que se mueva al este sólo _si es_ posible.
