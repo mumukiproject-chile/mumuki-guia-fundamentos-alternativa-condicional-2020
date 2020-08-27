@@ -6,7 +6,7 @@ En el día a día, se presentan muchas situaciones donde debemos elegir entre do
 
 Para estos casos, en Gobstones tenemos una nueva palabra clave que nos ayuda a cumplir nuestra tarea: el **else**. En castellano significa _si no_, y hace justamente lo que necesitamos: ejecuta una serie de acciones _si no se cumple_ la condición que pusimos en el `if`.
 
-Supongamos que queremos hacer un procedimiento que se mueva al oeste y, en caso de que no pueda, lo haga hacia el norte. Haciendo uso del `else`, podemos escribirlo de la siguiente manera:
+Supongamos que queremos definir un procedimiento que se mueva al oeste y, en caso de que no pueda, lo haga hacia el norte. Haciendo uso del `else`, podemos definirlo de la siguiente manera:
 
 ```gobstones
 procedure MoverComoSea() {
