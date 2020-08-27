@@ -19,4 +19,4 @@ Por ejemplo, si tenemos este tablero:
 * `puedeMover(Este)` será `True`.
 * Pero `puedeMover(Oeste)` será `False`
 
-> Invocando `puedeMover(direccion)`, crea un programa que se mueva al este sólo _si es_ posible.
+> Utilizando `puedeMover(direccion)`, crea un programa que se mueva al este sólo _si es_ posible.
