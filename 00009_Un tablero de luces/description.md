@@ -1,3 +1,3 @@
 Como ejemplo final, imaginemos que nuestro tablero está lleno de luces que están prendidas o apagadas. Vamos a decir que las celdas con una bolita verde están prendidas y las celdas con una bolita negra están apagadas.
 
-> Escribe un procedimiento `PrenderOApagarLuz()` que se encargue de prender las luces que estén apagadas o apagar las luces encendidas, según corresponda.
+> Define un procedimiento `PrenderOApagarLuz()` que se encargue de prender las luces que estén apagadas o apagar las luces encendidas, según corresponda.
