@@ -12,4 +12,4 @@ Algo que también se puede hacer es **negar** una condición, algo que en castel
 
 &nbsp;
 
-> Escribe un procedimiento `AsegurarUnaBolitaVerde()` que se asegure de que en la celda actual hay al menos una bolita verde. Esto es: si ya hay bolitas verdes no hay que hacer nada, pero si **no** hay, tendría que poner una.
+> Define un procedimiento `AsegurarUnaBolitaVerde()` que se asegure de que en la celda actual hay al menos una bolita verde. Esto es: si ya hay bolitas verdes no hay que hacer nada, pero si **no** hay, tendría que poner una.
