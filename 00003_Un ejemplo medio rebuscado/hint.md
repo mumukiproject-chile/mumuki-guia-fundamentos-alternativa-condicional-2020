@@ -1,4 +1,4 @@
-Como referencia, acá tienes la solución del problema anterior:
+Como referencia, aquí tienes la solución del problema anterior:
 
 ```gobstones
 procedure SacarRojaConMiedo() {
